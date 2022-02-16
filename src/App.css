@@ -1,0 +1,37 @@
+.div1
+{
+  margin-left : 300px;
+  position: absolute;
+  
+  color: black;
+  font-style: italic;
+  font-size: 100%;
+  background-color: #cfa0e9;
+  width: 300px;
+  height: 400px;
+  
+ 
+}
+img
+{
+ 
+  width: 200px;
+  border-radius: 50%;
+  margin-left: 50px;
+  margin-top: 50px;
+  position:relative;
+  
+  
+}
+.div0{
+  border: solid #c395dd ;
+  width: 600px;
+  height: 400px;
+  margin-left: 300px;
+  
+}
+.btm{
+  margin-left: 550px;
+  margin-top: 50px;
+
+}
